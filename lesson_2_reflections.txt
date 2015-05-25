@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It adds the git infrastructure (folder) to track commits in a given folder.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Temporary holding area. 
+	
