@@ -6,3 +6,25 @@ How is the staging area different from the working directory and the repository?
 
 	Temporary holding area. 
 	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can move a specific changed file (or files) to the staging area and commit it without committing
+	any other changed files which may be in the working directory.
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Experimental new features of your code or localized versions.
+	
+How do the diagrams help you visualize the branch structure?
+
+	Make obvious on which branch a commit happens as well as the parentage and reachability relationships.
+	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Keeping changes from both branches and to continue the parentage/reachability relationship.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging eliminates the necessity to review the simplest code changes allowing you to focus on
+	more serious issues.
+	
